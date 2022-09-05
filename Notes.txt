@@ -1,0 +1,4 @@
+1. npx prisma studio
+2. touch rest http
+3. npx prisma migrate dev
+
